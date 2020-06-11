@@ -1,0 +1,25 @@
+﻿Category,Traffic Source,Viewed,Selected,Purchased
+Cosmetics,Direct,23897,2567,1398
+Cosmetics,Google Organic,56789,2899,657
+Cosmetics,Ad Network 1,6753,18,5
+Cosmetics,Ad Network 2,12389,76,65
+Fashion,Direct,54322,540,386
+Fashion,Google Organic,98764,345,156
+Fashion,Ad Network 1,87878,234,75
+Fashion,Ad Network 2,46567,205,76
+Electronics,Direct,1789243,376,280
+Electronics,Google Organic,1256430,485,126
+Electronics,Ad Network 1,1399,4,0
+Electronics,Ad Network 2,1400,3,0
+Tools $ Office,Direct,21846,23,17
+Tools $ Office,Google Organic,14598,18,11
+Tools $ Office,Ad Network 1,12987,45,12
+Tools $ Office,Ad Network 2,16749,4,2
+Home Appliances,Direct,8709,6,2
+Home Appliances,Google Organic,5034,4,4
+Home Appliances,Ad Network 1,23874,2,1
+Home Appliances,Ad Network 2,74788,19,18
+Food,Direct,564,2,2
+Food,Google Organic,234,1,0
+Food,Ad Network 1,764353,87,6
+Food,Ad Network 2,874363,176,7
